@@ -92,7 +92,7 @@ function createMap(earthquakes) {
         center: [
             37.09, -95.71
         ],
-        zoom: 5,
+        zoom: 4,
         layers: [grayscale, earthquakes]
     });
 
